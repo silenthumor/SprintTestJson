@@ -1,0 +1,86 @@
+{
+    "projects": [
+        {
+            "name": "Project A",
+            "userStories": [
+                {
+                    "title": "User Story 1",
+                    "priority": 1,
+                    "teamMembers": [
+                        {
+                            "name": "John Doe",
+                            "actualHours": 10,
+                            "originalHours": 10,
+                            "re-estimateHours": 10
+                        },
+                        {
+                            "name": "Jane Smith",
+                            "actualHours": 10,
+                            "originalHours": 10,
+                            "re-estimateHours": 10
+                        }
+                    ]
+                },
+                {
+                    "title": "User Story 2",
+                    "priority": 2,
+                    "teamMembers": [
+                        {
+                            "name": "Bob Johnson",
+                            "actualHours": 10,
+                            "originalHours": 10,
+                            "re-estimateHours": 10
+                        },
+                        {
+                            "name": "Emily Chen",
+                            "actualHours": 10,
+                            "originalHours": 10,
+                            "re-estimateHours": 10
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Project B",
+            "userStories": [
+                {
+                    "title": "User Story 3",
+                    "priority": 1,
+                    "teamMembers": [
+                        {
+                            "name": "Alice Kim",
+                            "actualHours": 10,
+                            "originalHours": 10,
+                            "re-estimateHours": 10
+                        },
+                        {
+                            "name": "Tom Lee",
+                            "actualHours": 10,
+                            "originalHours": 10,
+                            "re-estimateHours": 10
+                        }
+                    ]
+                },
+                {
+                    "title": "User Story 4",
+                    "priority": 2,
+                    "teamMembers": [
+                        {
+                            "name": "Kevin Lee",
+                            "actualHours": 10,
+                            "originalHours": 10,
+                            "re-estimateHours": 10
+                        },
+                        {
+                            "name": "Cindy Wu",
+                            "actualHours": 10,
+                            "originalHours": 10,
+                            "re-estimateHours": 10
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
